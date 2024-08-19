@@ -1,1 +1,1 @@
-# arctic-auth-react
+# arctic-auth
